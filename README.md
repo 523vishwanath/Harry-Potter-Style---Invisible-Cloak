@@ -7,7 +7,7 @@
 ---
 
 <!-- Harry Potter Invisibility Cloak GIF -->
-<img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="280" alt="Harry Potter Invisibility Cloak"/>
+<img src="assets/InvisibleCloak.gif" width="280" alt="Harry Potter Invisibility Cloak"/>
 
 &nbsp;
 
